@@ -1,0 +1,27 @@
+{
+  "name": "astrology-software",
+  "version": "1.0.0",
+  "description": "Accurate Vedic + Western astrology software — Kundli, Dasha, Panchang, Milan, Predictions, Horoscope 2027, 100-Year Life Prediction and Numerology. Free.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "astronomy-engine": "^2.1.19",
+    "jspdf": "^3.0.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "5.6",
+    "vite": "^6.4.6",
+    "vitest": "^3.2.7"
+  }
+}
