@@ -1,0 +1,12 @@
+{
+  "name": "Astrology Software — Vedic + Western",
+  "short_name": "Astrology",
+  "description": "Accurate Vedic + Western astrology: Kundli, Dasha, Panchang, Milan, Predictions, Horoscope 2027, 100-Year Prediction and Numerology. Free.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0a12",
+  "theme_color": "#8e1f3c",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
